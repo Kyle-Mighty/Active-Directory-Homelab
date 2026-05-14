@@ -123,6 +123,8 @@ Search up their name -> Click Find Now -> Double Click The User
 Click ok. Users account is now unlocked
 <img width="409" height="534" alt="Click on The Unlock Account Check Box" src="https://github.com/user-attachments/assets/ebe19923-9bef-4894-8ac1-447068379dce" />
 
+---
+
 # Password Reset
 ## Example scenario of User having trouble accessing their account
 
@@ -150,6 +152,7 @@ Click ok. Password changed
 <img width="514" height="512" alt="Create New Password" src="https://github.com/user-attachments/assets/9bd95828-c7e1-419c-9a7d-3c3e446d9137" />
 <img width="346" height="149" alt="Password Successfully Changed" src="https://github.com/user-attachments/assets/1420dfe3-d5c3-45f3-b3dd-199cae2426e4" />
 
+---
 
 
 
