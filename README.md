@@ -49,25 +49,48 @@ A domain (EastLake.local) was created with Organizational Units (OUs) to reflect
 # Domain Design
 <img width="1024" height="296" alt="Ou Design" src="https://github.com/user-attachments/assets/4044755a-8960-438f-bb60-7e500e851db2" />
 
+---
 
-# Steps to Creating (OUs)
+# Steps To Creating (OUs)
  Right-click the domain controller name (EastLake.local) -> New -> Organizational Unit
 <img width="1022" height="725" alt="Creating Ous 1" src="https://github.com/user-attachments/assets/3cd17fdb-4957-428c-bb00-0eb958c36c42" />
 
-# Name the Files
+# Name The Files
 Created 3 (Ous) USA, Europe, and Asia
 <img width="1035" height="695" alt="Name Files" src="https://github.com/user-attachments/assets/18c4e5f5-d56b-455f-b660-b27d40049367" />
 
-# Creating Users,Computers and Servers to the Previous (Ous) 
-Add the following groups: Users, Computers and Servers to the Previous (Ous)
-<img width="1021" height="727" alt="Creating Users Computers and Servers to the Previous (Ous)" src="https://github.com/user-attachments/assets/6b43a896-1d45-44ca-98d2-24cfed56cedc" />
- the Previous (Ous) 
+# Created Ous Within The Department OUs
+Added the following groups: Users, Computers and Servers to the Previous (Ous)
+<img width="1021" height="727" alt="Created Ous Within The Department OUs" src="https://github.com/user-attachments/assets/06dab16e-bee5-46cb-90b2-9d3549663c39" />
+
 
 ---
  
-# Creating Users
+# Creating Groups
+
 Go to designated Ou -> Right click -> Group
 <img width="1035" height="685" alt="Creating Users" src="https://github.com/user-attachments/assets/ce7d9949-8ea6-4512-84c1-2867052ec4e2" />
+
+# Name The Group 
+Type in a name for the Group and keep the group scope global. Hit ok
+<img width="1032" height="682" alt="Name Group" src="https://github.com/user-attachments/assets/dfebd172-4a06-424c-80cd-caa41dbbf09d" />
+
+# Created a Security Group and Distribution Group
+<img width="1022" height="136" alt="Created a Security Group and Distribution Group" src="https://github.com/user-attachments/assets/4d7a4580-3a01-4b11-974d-3e35d78dbc0c" />
+
+---
+
+# Creating Users
+Go to Department where you are needed -> Right click Users -> New -> User
+
+# Create a Name and User Login Name
+<img width="1023" height="727" alt="Create a Name and User Login Name" src="https://github.com/user-attachments/assets/201a0096-f1b1-4aab-ad3d-01800dfad1fa" />
+
+# Create a Password
+Hit ok and user is created
+<img width="434" height="379" alt="Create a Password" src="https://github.com/user-attachments/assets/80cc481e-a0e7-4ba5-a84b-1982c58867c1" />
+
+---
 
 
 
